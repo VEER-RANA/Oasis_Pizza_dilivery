@@ -5,8 +5,7 @@ A full-stack web application for seamless online pizza ordering. This project su
 
 ## 🚀 Features
 
-- 👤 User & Admin Authentication (with Email Verification)
-- 🍕 Dynamic Pizza Builder
+- 👤 User & Admin Authentication
 - 🛒 Add to Cart and Order Placement
 - 🧾 Invoice and Order Summary
 - ⚡ Real-time Order Status Updates
