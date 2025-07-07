@@ -1,29 +1,6 @@
 # 🍕 Oasis Pizza Delivery
 
-A full-stack web application for seamless online pizza ordering. This project supports user and admin roles, dynamic menu customization, real-time order tracking, and secure payments.
-
----
-
-## 📌 Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [Folder Structure](#folder-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## 🎥 Demo
-
-> Add screenshots or a video demo link here if available.
-
-![Homepage Screenshot](link-to-image)
-
+A full-stack web application for seamless online pizza ordering. This project supports user and admin roles, dynamic menu customization, real-time order tracking.
 ---
 
 ## 🚀 Features
@@ -34,10 +11,7 @@ A full-stack web application for seamless online pizza ordering. This project su
 - 🧾 Invoice and Order Summary
 - ⚡ Real-time Order Status Updates
 - 📦 Inventory Management (Admin Panel)
-- 🔔 Stock Alerts & Notifications
-- 💳 Razorpay Integration for Payments
 - 📈 Dashboard for Admin Stats
-- 📬 Email Notifications on Order Confirmation
 
 ---
 
@@ -57,8 +31,6 @@ A full-stack web application for seamless online pizza ordering. This project su
 - JWT for Authentication
 - Bcrypt for Password Hashing
 - Cloudinary (optional for images)
-- Razorpay for Payment Integration
-- Nodemailer for Email Service
 
 ---
 
