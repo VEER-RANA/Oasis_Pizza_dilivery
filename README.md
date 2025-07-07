@@ -46,16 +46,16 @@ Make sure you have the following installed:
 ### Installation
 
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/VEER-RANA/Oasis_Pizza_dilivery.git
 
-# Go into the project directory
+## Go into the project directory
 cd Oasis_Pizza_dilivery
 
-# Install backend dependencies
+## Install backend dependencies
 cd server
 npm install
 
-# Install frontend dependencies
+## Install frontend dependencies
 cd ../client
 npm install
