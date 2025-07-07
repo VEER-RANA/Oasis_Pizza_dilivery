@@ -1,6 +1,6 @@
 # 🍕 Oasis Pizza Delivery
 
-A full-stack web application for seamless online pizza ordering. This project supports user and admin roles, dynamic menu customization, real-time order tracking.
+A full-stack web application for seamless online pizza ordering. This project supports user and admin roles, real-time order tracking.
 ---
 
 ## 🚀 Features
